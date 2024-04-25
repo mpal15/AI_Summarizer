@@ -12,7 +12,7 @@ const Hero = () => {
         <button
           type='button'
           onClick={() =>
-            window.open("https://github.com/mpal15", "_blank")
+            window.open("https://github.com/mpal15/AI_Summarizer.git", "_blank")
           }
           className='black_btn'
         >
